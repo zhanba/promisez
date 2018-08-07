@@ -1,4 +1,4 @@
-# Promise
+# Promize
 
 Promise that pass promise/A+ test suite
 
